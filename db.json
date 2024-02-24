@@ -1,0 +1,256 @@
+{
+  "companies": [
+    {
+      "company": {
+        "name": "Company A",
+        "address": "123 Main St, City",
+        "employees": [
+          {
+            "id": 1,
+            "employee": {
+              "companyId": 1,
+              "lastName": "Doe",
+              "firstName": "John",
+              "position": "Manager"
+            }
+          },
+          {
+            "id": 2,
+            "employee": {
+              "companyId": 1,
+              "lastName": "Smith",
+              "firstName": "Jane",
+              "position": "Developer"
+            }
+          },
+          {
+            "id": 3,
+            "employee": {
+              "companyId": 1,
+              "lastName": "Johnson",
+              "firstName": "Bob",
+              "position": "Designer"
+            }
+          }
+        ]
+      },
+      "id": "1"
+    },
+    {
+      "company": {
+        "name": "Company BCD",
+        "address": "456 Elm St, Town",
+        "employees": [
+          {
+            "id": 4,
+            "employee": {
+              "companyId": 2,
+              "lastName": "Williams",
+              "firstName": "Emily",
+              "position": "Manager"
+            }
+          },
+          {
+            "id": 5,
+            "employee": {
+              "companyId": 2,
+              "lastName": "Brown",
+              "firstName": "David",
+              "position": "Developer"
+            }
+          },
+          {
+            "id": 6,
+            "employee": {
+              "companyId": 2,
+              "lastName": "Jones",
+              "firstName": "Lisa",
+              "position": "Designer"
+            }
+          },
+          {
+            "id": 7,
+            "employee": {
+              "companyId": 2,
+              "lastName": "Garcia",
+              "firstName": "Michael",
+              "position": "Manager"
+            }
+          }
+        ]
+      },
+      "id": "2"
+    },
+    {
+      "company": {
+        "name": "Company C",
+        "address": "789 Oak St, Village",
+        "employees": [
+          {
+            "id": 8,
+            "employee": {
+              "companyId": 3,
+              "lastName": "Martinez",
+              "firstName": "Maria",
+              "position": "Developer"
+            }
+          },
+          {
+            "id": 9,
+            "employee": {
+              "companyId": 3,
+              "lastName": "Hernandez",
+              "firstName": "William",
+              "position": "Designer"
+            }
+          },
+          {
+            "id": 10,
+            "employee": {
+              "companyId": 3,
+              "lastName": "Young",
+              "firstName": "Emma",
+              "position": "Manager"
+            }
+          }
+        ]
+      },
+      "id": "3"
+    },
+    {
+      "company": {
+        "name": "Company DYu",
+        "address": "101 Pine St, Town",
+        "employees": [
+          {
+            "id": 11,
+            "employee": {
+              "companyId": 4,
+              "lastName": "Lopez",
+              "firstName": "Carlos",
+              "position": "Developer"
+            }
+          },
+          {
+            "id": 1534,
+            "employee": {
+              "companyId": 4,
+              "lastName": "Gonzalez",
+              "firstName": "Jessica",
+              "position": "Designer"
+            }
+          },
+          {
+            "id": 12,
+            "employee": {
+              "companyId": 4,
+              "lastName": "Gonzalez2",
+              "firstName": "Jessica2",
+              "position": "Designer"
+            }
+          }
+        ]
+      },
+      "id": "4"
+    },
+    {
+      "company": {
+        "name": "Company ERG",
+        "address": "111 Cedar St, City",
+        "employees": [
+          {
+            "id": 13,
+            "employee": {
+              "companyId": 5,
+              "lastName": "Wilson",
+              "firstName": "Daniel",
+              "position": "Manager"
+            }
+          },
+          {
+            "id": 14,
+            "employee": {
+              "companyId": 5,
+              "lastName": "Anderson",
+              "firstName": "Sophia",
+              "position": "Developer"
+            }
+          },
+          {
+            "id": 15,
+            "employee": {
+              "companyId": 5,
+              "lastName": "Taylor",
+              "firstName": "Matthew",
+              "position": "Designer"
+            }
+          },
+          {
+            "id": 16,
+            "employee": {
+              "companyId": 5,
+              "lastName": "Thomas",
+              "firstName": "Olivia",
+              "position": "Manager"
+            }
+          }
+        ]
+      },
+      "id": "5"
+    },
+    {
+      "company": {
+        "name": "Company FGF",
+        "address": "222 Maple St, Village",
+        "employees": [
+          {
+            "id": 17,
+            "employee": {
+              "companyId": 6,
+              "lastName": "Moore",
+              "firstName": "Ethan",
+              "position": "Developer"
+            }
+          },
+          {
+            "id": 18,
+            "employee": {
+              "companyId": 6,
+              "lastName": "Jackson",
+              "firstName": "Ava",
+              "position": "Designer"
+            }
+          },
+          {
+            "id": 19,
+            "employee": {
+              "companyId": 6,
+              "lastName": "White",
+              "firstName": "Noah",
+              "position": "Manager"
+            }
+          },
+          {
+            "id": 20,
+            "employee": {
+              "companyId": 6,
+              "lastName": "Harris",
+              "firstName": "Isabella",
+              "position": "Developer"
+            }
+          },
+          {
+            "id": 21,
+            "employee": {
+              "companyId": 6,
+              "lastName": "Clark",
+              "firstName": "James",
+              "position": "Designer"
+            }
+          }
+        ]
+      },
+      "id": "6"
+    }
+  ]
+}

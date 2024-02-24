@@ -1,0 +1,17 @@
+.company {
+    cursor: pointer;
+    text-align: center;
+
+    td {
+	padding: 5px 10px;
+
+	.input {
+	    border: 0;
+	    max-width: 150px;
+	}
+    }
+}
+
+.active {
+    color: red;
+}
